@@ -1,3 +1,5 @@
 café
 yerba
 galletitas
+manzanas
+naranja
